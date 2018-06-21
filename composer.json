@@ -1,0 +1,13 @@
+{
+    "name": "eugene/untitled5",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Popov Eugene",
+            "email": "zhenya1995q@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
